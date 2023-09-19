@@ -1,0 +1,21 @@
+.todos-container {
+    padding: 1rem;
+
+    width: 80%;
+}
+
+.todos-label {
+    position: relative;
+}
+
+.toggle-todos-btn {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+}
+
+.todos-input {
+    padding-left: 4rem;
+    width: 100%;
+}
